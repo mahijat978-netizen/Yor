@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: frozen-music-bot
+    name: Yor-music-bot
     env: python
     plan: free
     buildCommand: "pip install -r requirements.txt"
